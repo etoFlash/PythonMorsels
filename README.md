@@ -13,3 +13,8 @@
 | 009 | parse_ranges |   |
 | 010 | meetup_date |   |
 | 011 | EasyDict |   |
+| 012 | is_perfect_square |   |
+| 013 | uniques_only |   |
+| 014 | deep_add |   |
+| 015 | float_range |   |
+| 016 | [sum_timestamps](/sum_timestamps) | ✔️ |
