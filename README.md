@@ -2,7 +2,7 @@
 
 | # | Title | Done |
 | --- | --- | --- |
-| 001 | [Add](/add) | ✔️ |
+| 001 | [Add](/001_add) | ✔️ |
 | 002 | Circle |   |
 | 003 | fix_csv.py |   |
 | 004 | compact |   |
@@ -17,4 +17,4 @@
 | 013 | uniques_only |   |
 | 014 | deep_add |   |
 | 015 | float_range |   |
-| 016 | [sum_timestamps](/sum_timestamps) | ✔️ |
+| 016 | [sum_timestamps](/016_sum_timestamps) | ✔️ |
