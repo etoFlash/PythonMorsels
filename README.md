@@ -15,6 +15,6 @@
 | 011 | EasyDict |   |
 | 012 | is_perfect_square |   |
 | 013 | uniques_only |   |
-| 014 | deep_add |   |
+| 014 | [deep_add](/014_deep_add) |   |
 | 015 | float_range |   |
 | 016 | [sum_timestamps](/016_sum_timestamps) | ✔️ |
