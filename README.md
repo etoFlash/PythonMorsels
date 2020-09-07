@@ -5,7 +5,7 @@
 | 001 | [Add](/001_add) | ✔️ |
 | 002 | Circle |   |
 | 003 | fix_csv.py |   |
-| 004 | compact |   |
+| 004 | [compact](/004_compact) | ✔️ |
 | 005 | count_words |   |
 | 006 | tail |   |
 | 007 | Point |   |
