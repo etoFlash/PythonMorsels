@@ -6,7 +6,7 @@
 | 002 | Circle |   |
 | 003 | fix_csv.py |   |
 | 004 | [compact](/004_compact) | ✔️ |
-| 005 | count_words |   |
+| 005 | [count_words](/005_count_words) | ✔️ |
 | 006 | tail |   |
 | 007 | Point |   |
 | 008 | is_anagram |   |
